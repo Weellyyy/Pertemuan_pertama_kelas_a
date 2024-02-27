@@ -8,6 +8,7 @@ int main()
 {//begin
 	float nJejari, nLuas;
 	//numeric njejari, nluas
+	cout << "+++ LUAS LINGKARAN +++";
 	cout << "masukan nJejari";
 	//display "Masukan jejari"
 	cin >> nJejari;
